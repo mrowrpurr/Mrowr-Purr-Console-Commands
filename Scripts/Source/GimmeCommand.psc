@@ -1,0 +1,1 @@
+Scriptname GimmeCommand extends Quest  

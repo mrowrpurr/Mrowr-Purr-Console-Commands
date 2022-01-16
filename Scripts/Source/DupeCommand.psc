@@ -1,0 +1,1 @@
+Scriptname DupeCommand extends Quest  
